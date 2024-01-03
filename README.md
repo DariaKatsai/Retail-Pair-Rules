@@ -28,4 +28,4 @@
 - Matplotlib: `pip install matplotlib`
 
 ## Використання
-Для аналізу асоціативних правил виконайте скрипт `associative_rules_analysis.py` з командного рядка.
+Для аналізу асоціативних правил виконайте скрипт `python associative_rules_analysis.py` з командного рядка.
